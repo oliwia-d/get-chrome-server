@@ -1,0 +1,14 @@
+{
+  "name": "get-chrome-server",
+  "version": "1.0.0",
+  "description": "Server to receive data from extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dykas.oliwia@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
